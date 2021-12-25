@@ -1,0 +1,9 @@
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB Conversor\dBConversor\bin\Debug\dBConversor.exe.config
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB Conversor\dBConversor\bin\Debug\dBConversor.exe
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB Conversor\dBConversor\bin\Debug\dBConversor.pdb
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB Conversor\dBConversor\obj\Debug\dBConversor.csprojResolveAssemblyReference.cache
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB Conversor\dBConversor\obj\Debug\dBConversor.Form1.resources
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB Conversor\dBConversor\obj\Debug\dBConversor.Properties.Resources.resources
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB Conversor\dBConversor\obj\Debug\dBConversor.csproj.GenerateResource.Cache
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB Conversor\dBConversor\obj\Debug\dBConversor.exe
+C:\Users\BelissimaV\Dropbox\My PC (DSimao-PC)\Documents\portifolio\Aplicativos Projectos\Programas C#\dB Conversor\dBConversor\obj\Debug\dBConversor.pdb
